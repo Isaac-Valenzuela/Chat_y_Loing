@@ -4,13 +4,6 @@
 
 export const environment = {
   firebase: {
-    apiKey: "AIzaSyB9desS-26crKu_S8AN6gdUnGD-GkemWf0",
-    authDomain: "appmovil-73f5a.firebaseapp.com",
-    projectId: "appmovil-73f5a",
-    storageBucket: "appmovil-73f5a.firebasestorage.app",
-    messagingSenderId: "244169367070",
-    appId: "1:244169367070:web:833df578cad733a2c8580f",
-    measurementId: "G-FH4ZFBPG87"
   },
   production: false,
 };
